@@ -1,0 +1,154 @@
+body {
+    background-color: #FAFAFA !important;
+}
+
+header {
+    background-color: white;
+}
+
+.headerbar {
+    height: 54px;
+    text-align: center;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+
+.icons {
+    font-size: 25px;
+    word-spacing: 15px;
+    padding: 5px 0;
+    cursor: pointer;
+}
+
+#pfpicon {
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#center {
+    padding: 15px 0;
+}
+
+.searchbar {
+    background: #fafafa;
+    border: solid 1px #dbdbdb;
+    border-radius: 3px;
+    color: #8e8e8e;
+    cursor: text;
+    font-size: 14px;
+    font-weight: 300;
+    text-align: center;
+    box-sizing: border-box;
+    width: 215px;
+    height: 28px;
+}
+
+.profile {
+    padding: 3rem 0;
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+}
+
+.profilepic img {
+    border-radius: 50%;
+}
+
+.user {
+    margin-left: 50px;
+    display: flex;
+}
+
+.settings {
+    margin-left: 20px;
+}
+
+.username {
+    color: #262626;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 32px;
+}
+
+.editpfp {
+    background-color: transparent;
+    border: 1px solid #dbdbdb;
+    color: #262626;
+    border-radius: 4px;
+}
+
+.gear {
+    border: none;
+    background-color: transparent;
+    font-size: 25px;
+    margin-left: 5px;
+}
+
+ul#statsrow li {
+    display: inline-block;
+}
+
+.stats {
+    position: absolute;
+    padding-left: 178px;
+    top: 150px;
+    word-spacing: 30px;
+}
+
+.name {
+    display: inline;
+    font-weight: 600;
+    position: absolute;
+    margin-left: 220px;
+    top: 190px;
+}
+
+.bio {
+    position: absolute;
+    margin-left: 220px;
+    top: 215px;
+}
+
+img.highlights {
+    border-radius: 50%;
+}
+
+.le {
+    margin-left: 50px;
+}
+
+.text {
+    text-overflow: ellipsis;
+    text-align: center;
+    width: 77px;
+}
+
+.highlight {
+    margin-left: 210px;
+    margin-top: 40px;
+    display: flex;
+}
+
+.photogallery {
+    margin-left: 240px;
+    margin-right: 240px;
+}
+
+ul.menu li {
+    display: inline-block;
+}
+
+.menus {
+    text-align: center;
+    word-spacing: 70px;
+    font-size: 12px;
+    font-weight: 600px;
+}
+
+.secondrow {
+    padding-top: 30px;
+}
+
+.thirdrow {
+    padding-top: 30px;
+}
