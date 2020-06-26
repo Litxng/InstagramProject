@@ -2,6 +2,9 @@ body {
     background-color: #FAFAFA !important;
 }
 
+
+/* header bar */
+
 header {
     background-color: white;
 }
@@ -42,6 +45,9 @@ header {
     width: 215px;
     height: 28px;
 }
+
+
+/* profile section (username, settings, bio) */
 
 .profile {
     padding: 3rem 0;
@@ -109,6 +115,9 @@ ul#statsrow li {
     top: 215px;
 }
 
+
+/* highlights */
+
 img.highlights {
     border-radius: 50%;
 }
@@ -127,12 +136,19 @@ img.highlights {
     margin-left: 210px;
     margin-top: 40px;
     display: flex;
+    cursor: pointer;
 }
+
+
+/* the photogallery part */
 
 .photogallery {
     margin-left: 240px;
     margin-right: 240px;
 }
+
+
+/* posts, igtv, and tagged part */
 
 ul.menu li {
     display: inline-block;
@@ -143,7 +159,11 @@ ul.menu li {
     word-spacing: 70px;
     font-size: 12px;
     font-weight: 600px;
+    cursor: pointer;
 }
+
+
+/* div classes for photogallery */
 
 .secondrow {
     padding-top: 30px;
